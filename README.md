@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**sujikm/sujikm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 About Me
 
-Here are some ideas to get you started:
+Hi, I'm **Suji** — a student currently exploring the world of tech and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔍 Interests  
+- Web Development  
+- Open-source contributions  
+- Problem-solving  
+- UI/UX Design  
+
+---
+
+## 🛠️ Skills  
+- Programming Languages: **Java**, **HTML**, **CSS**, **JavaScript** (beginner)  
+- Tools & Tech: **Mobile Apps**, **Git & GitHub**, **Agile Methodologies**
+
+---
+
+## 🎯 Goals  
+- Build cool and impactful projects  
+- Contribute to open-source communities  
+- Keep learning and growing as a developer
+
+---
+
+## 🎨 Hobbies  
+✏️ Sketching | 🎮 Gaming | 📚 Reading tech blogs | 🎧 Listening to music
+
+---
+
+## 💻 Sample Projects  
+- 🔌 **Socket Programming:** [View on GitHub](https://github.com/sujikm/SocketProgramming)  
+- 📱 **Agile Software Development:** [View on GitHub](https://github.com/sujikm/AgileTest)
+- 🌍 **Ionic Mobile Application:** [View on GitHub](https://github.com/sujikm/Ionic-Mobile-App)
+---
+
+🌱 *Thanks for visiting my profile! Let’s connect and collaborate!*
